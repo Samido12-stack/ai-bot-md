@@ -13,7 +13,7 @@
 <hr>
 <p align="center">
 <a href="https://github.com/T-crone-B/ai-bot-md">
-    <img src="https://files.catbox.moe/4y72v">
+    <img src="https://ibb.co/HY4Tcgy.jpg">
   </a>
 
 
