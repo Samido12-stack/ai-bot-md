@@ -73,7 +73,7 @@
 
 
 
-   <a href="https://github.com/T-crone-B/"><img src="https://telegra.ph/file/c718b67d351c1190e285" width=80 height=80></a>   
+   <a href="https://github.com/T-crone-B/"><img src="https://files.catbox.moe/q0w46d.jpg" width=80 height=80></a>   
 
 |**[`TCRONEB-HACKX`](https://github.com/T-crone-B)**|
 
