@@ -73,14 +73,14 @@
 
 
 
-   <a href="https://github.com/cobrs11/"><img src="https://telegra.ph/file/c718b67d351c1190e285b.jpg" width=80 height=80></a>   
+   <a href="https://github.com/T-crone-B/"><img src="https://telegra.ph/file/c718b67d351c1190e285" width=80 height=80></a>   
 
-|**[`IMALKA-HANSAMAL`](https://github.com/cobrs11)**|
+|**[`TCRONEB-HACKX`](https://github.com/T-crone-B)**|
 
-## 👑 `HANSAMAL-MD BOT OWNER`👨‍💻 
+## 👑 `TCRONEB HACKX BOT OWNER`👨‍💻 
 
  <br>
  </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+HANSAMAL-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+AI-BOT-MD" alt="Typing SVG" /></a>
 <p>----
