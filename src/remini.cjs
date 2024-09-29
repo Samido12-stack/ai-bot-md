@@ -1,4 +1,4 @@
-//HANSAMAL-MD
+//ai-bot-md
 
 const FormData = require("form-data");
 async function remini(_0x33b965, _0x34eff3) {
