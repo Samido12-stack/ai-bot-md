@@ -70,7 +70,7 @@ const Lyrics = async (m, Matrix) => {
                   text: lyrics
                 }),
                 footer: proto.Message.InteractiveMessage.Footer.create({
-                  text: "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Black-Bot-ᴍᴅ*"
+                  text: "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ AI-BOT-MD-ᴍᴅ*"
                 }),
                 header: proto.Message.InteractiveMessage.Header.create({
                   title: "",
